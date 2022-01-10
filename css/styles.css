@@ -1,0 +1,64 @@
+body {
+  height: 1200px;
+}
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  display: block;
+  position: relative;
+  right: 10px;
+}
+h1 {
+  color: #66bfbf;
+  line-height: 3;
+}
+h2 {
+  font-weight: normal;
+  color: #66bfbf;
+}
+.wa {
+  height: 100px;
+  width: 100px;
+  position: fixed;
+  bottom: 0px;
+  right: 0;
+}
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  display: block;
+  position: absolute;
+  left: 100px;
+}
+.green {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  color: white;
+  text-align: center;
+  display: block;
+  position: relative;
+  top: 100px;
+  left: 193px;
+}
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  color: Black;
+  text-align: center;
+  display: block;
+  position: absolute;
+  top: 308px;
+  left: 300px;
+}
+.main {
+  margin-top: 250px;
+  text-align: center;
+}
